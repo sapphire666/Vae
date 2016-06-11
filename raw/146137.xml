@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>全球变冷</TITLE>
+<ARTIST></ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<LYRICS>
+<LRC TAG="880">全球变冷</LRC>
+<LRC TAG="3600">作曲：许嵩 作词：许嵩</LRC>
+<LRC TAG="5940">演唱：许嵩</LRC>
+<LRC TAG="7880">中文歌词库 www.CnLyric.com</LRC>
+<LRC TAG="22870">风在淅淅沥沥的雨中</LRC>
+<LRC TAG="26890">撑伞走过那路口</LRC>
+<LRC TAG="29700">有人跌跌撞撞踩到我</LRC>
+<LRC TAG="32800">没说对不起借过</LRC>
+<LRC TAG="36120">表情无喜无悲的冷漠</LRC>
+<LRC TAG="40400">是这座城市的符咒</LRC>
+<LRC TAG="43260">每个人都害怕被看出内心的脆弱</LRC>
+<LRC TAG="50200">看你懵懵懂懂的眼中 布满太多的困惑</LRC>
+<LRC TAG="56870">自从经历过那些以后 你都没怎么笑过</LRC>
+<LRC TAG="63590">不必反反复复想太多 每天都要过的更洒脱</LRC>
+<LRC TAG="70630">看得透 放得下 拈花一朵</LRC>
+<LRC TAG="77390">如果能够多一点点微笑</LRC>
+<LRC TAG="80840">生命也会多一点点美好</LRC>
+<LRC TAG="84180">何必活的那么冷酷寂寥</LRC>
+<LRC TAG="87660">入夜总为小事而睡不着</LRC>
+<LRC TAG="91090">如果能够多一点点微笑</LRC>
+<LRC TAG="94470">快乐也会多一点点围绕</LRC>
+<LRC TAG="97920">不要等到全球变冷才觉不妙</LRC>
+<LRC TAG="104640"></LRC>
+<LRC TAG="118750">风在淅淅沥沥的雨中</LRC>
+<LRC TAG="122730">撑伞走过那路口</LRC>
+<LRC TAG="125620">有人跌跌撞撞踩到我</LRC>
+<LRC TAG="128650">没说对不起借过</LRC>
+<LRC TAG="132350">表情无喜无悲的冷漠</LRC>
+<LRC TAG="136340">是这座城市的符咒</LRC>
+<LRC TAG="139410">每个人都害怕被看出内心的脆弱</LRC>
+<LRC TAG="146030">看你懵懵懂懂的眼中 布满太多的困惑</LRC>
+<LRC TAG="152850">自从经历过那些以后 你都没怎么笑过</LRC>
+<LRC TAG="159850">不必反反复复想太多 每天都要过的更洒脱</LRC>
+<LRC TAG="166410">看得透 放得下 拈花一朵</LRC>
+<LRC TAG="173410">如果能够多一点点微笑</LRC>
+<LRC TAG="176870">生命也会多一点点美好</LRC>
+<LRC TAG="180290">何必活的那么冷酷寂寥</LRC>
+<LRC TAG="183720">入夜总为小事而睡不着</LRC>
+<LRC TAG="187140">如果能够多一点点微笑</LRC>
+<LRC TAG="190460">快乐也会多一点点围绕</LRC>
+<LRC TAG="193960">不要等到全球变冷才觉不妙</LRC>
+<LRC TAG="200470">如果能够多一点点微笑</LRC>
+<LRC TAG="204280">生命也会多一点点美好</LRC>
+<LRC TAG="207580">何必活的那么冷酷寂寥</LRC>
+<LRC TAG="211060">入夜总为小事而睡不着</LRC>
+<LRC TAG="214620">如果能够多一点点微笑</LRC>
+<LRC TAG="218000">快乐也会多一点点围绕</LRC>
+<LRC TAG="221320">不要等到全球变冷才觉不妙</LRC>
+<LRC TAG="228320"></LRC>
+</LYRICS>
+</MUSIC>

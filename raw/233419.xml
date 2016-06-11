@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>不语（电影《不速之客》主题曲）</TITLE>
+<ARTIST></ARTIST>
+<ALBUM>电影《不速之客》主题曲</ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<LYRICS>
+<LRC TAG="1960">许嵩 - 不语</LRC>
+<LRC TAG="2970">电影《不速之客》主题曲</LRC>
+<LRC TAG="4080">词曲：火星电台</LRC>
+<LRC TAG="22160">冬夜 多漫长</LRC>
+<LRC TAG="31340">迷路的孩子</LRC>
+<LRC TAG="35120">可记得家的模样</LRC>
+<LRC TAG="41190">有雪 有挂念</LRC>
+<LRC TAG="49620">落幕的时候 都喝醉</LRC>
+<LRC TAG="58870">开心 不语</LRC>
+<LRC TAG="63800">伤心 不语</LRC>
+<LRC TAG="68650">晴朗 不语</LRC>
+<LRC TAG="74830">阴天 不语</LRC>
+<LRC TAG="78240">坚强 不语</LRC>
+<LRC TAG="82800">脆弱 不语</LRC>
+<LRC TAG="87630">此时不语 更来不及</LRC>
+<LRC TAG="99990">我在哪里</LRC>
+<LRC TAG="104690">我在哪里</LRC>
+<LRC TAG="109370">我在哪里</LRC>
+<LRC TAG="114180">我怎么能回去</LRC>
+<LRC TAG="118850">我在哪里</LRC>
+<LRC TAG="123720">我在哪里</LRC>
+<LRC TAG="128460">这是哪里</LRC>
+<LRC TAG="133100">我怎么能回去</LRC>
+<LRC TAG="139480">我想 还是选择沉默不语</LRC>
+<LRC TAG="167230">我在哪里</LRC>
+<LRC TAG="172110">我在哪里</LRC>
+<LRC TAG="176860">我在哪里</LRC>
+<LRC TAG="181660">我怎么能回去</LRC>
+<LRC TAG="186580">我在哪里</LRC>
+<LRC TAG="191670">我在哪里</LRC>
+<LRC TAG="196570">这是哪里</LRC>
+<LRC TAG="201560">我怎么能回去</LRC>
+<LRC TAG="207600">我想 还是选择沉默不语</LRC>
+<LRC TAG="221750">歌词编辑：费总</LRC>
+<LRC TAG="222920">QQ：1421210858</LRC>
+</LYRICS>
+</MUSIC>

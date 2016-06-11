@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>小烦恼没什么大不了</TITLE>
+<ARTIST></ARTIST>
+<ALBUM>小烦恼没什么大不了</ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<LYRICS>
+<LRC TAG="730">小烦恼没什么大不了 - 许嵩</LRC>
+<LRC TAG="4300">词曲：许嵩</LRC>
+<LRC TAG="18230">早晨六点不想起</LRC>
+<LRC TAG="21050">睡眠太少不长命</LRC>
+<LRC TAG="24110">人类应该睡到自然醒</LRC>
+<LRC TAG="30170">三天两头被考评</LRC>
+<LRC TAG="32990">成绩太低没自信</LRC>
+<LRC TAG="36050">谁在制造这么大压力</LRC>
+<LRC TAG="42120">嘿~</LRC>
+<LRC TAG="42740">心上人在哪里</LRC>
+<LRC TAG="44300">在别人空间里</LRC>
+<LRC TAG="45740">你看到她和他的合影</LRC>
+<LRC TAG="48180">气~</LRC>
+<LRC TAG="48800">好朋友在哪里</LRC>
+<LRC TAG="50250">在名品商铺里</LRC>
+<LRC TAG="51680">可你却买不起</LRC>
+<LRC TAG="60120">小烦恼没什么大不了</LRC>
+<LRC TAG="62680">请让我看到你翘起来的嘴角</LRC>
+<LRC TAG="65940">唱不了的歌就转调</LRC>
+<LRC TAG="69000">千万不要自寻烦恼</LRC>
+<LRC TAG="71940">小烦恼没什么大不了</LRC>
+<LRC TAG="74630">请让我看到你翘起来的嘴角</LRC>
+<LRC TAG="78000">不属于你的就不要</LRC>
+<LRC TAG="81000">快乐不靠拥有多少</LRC>
+<LRC TAG="96220">走路打了个喷嚏</LRC>
+<LRC TAG="98970">谁说坏话背地里</LRC>
+<LRC TAG="101970">不是人人都对你满意</LRC>
+<LRC TAG="108040">脸蛋并非很讨喜</LRC>
+<LRC TAG="111040">打扮总被笑没品</LRC>
+<LRC TAG="114040">谁对你的故事感兴趣</LRC>
+<LRC TAG="120100">嘿~</LRC>
+<LRC TAG="120720">她在公园徜徉</LRC>
+<LRC TAG="122290">珍宝珠棒棒糖</LRC>
+<LRC TAG="123720">你轻轻递到她的手上</LRC>
+<LRC TAG="125980">嘿~</LRC>
+<LRC TAG="126660">你和她谈梦想</LRC>
+<LRC TAG="128160">想陪她去流浪…</LRC>
+<LRC TAG="130000">她说 最近有点忙</LRC>
+<LRC TAG="133620">小烦恼没什么大不了</LRC>
+<LRC TAG="136190">请让我看到你翘起来的嘴角</LRC>
+<LRC TAG="139480">唱不了的歌就转调</LRC>
+<LRC TAG="142480">千万不要自寻烦恼</LRC>
+<LRC TAG="145650">小烦恼没什么大不了</LRC>
+<LRC TAG="148220">请让我看到你翘起来的嘴角</LRC>
+<LRC TAG="151530">不属于你的就不要</LRC>
+<LRC TAG="154530">快乐不靠拥有多少</LRC>
+<LRC TAG="157720">后来你听说那暧昧的合影</LRC>
+<LRC TAG="160780">原来只是她和她的表弟</LRC>
+<LRC TAG="163530">还有 好朋友那日豪掷千金</LRC>
+<LRC TAG="166400">是存了半年买给他爸生日礼</LRC>
+<LRC TAG="169160">嘿~</LRC>
+<LRC TAG="170090">她又在那徜徉</LRC>
+<LRC TAG="171660">珍宝珠棒棒糖</LRC>
+<LRC TAG="173090">你再次递到她的手上</LRC>
+<LRC TAG="175530">嘿~</LRC>
+<LRC TAG="176030">你和她谈梦想</LRC>
+<LRC TAG="177590">她开始认真倾听你的主张</LRC>
+<LRC TAG="181590">小烦恼没什么大不了</LRC>
+<LRC TAG="184090">请让我看到你翘起来的嘴角</LRC>
+<LRC TAG="187530">唱不了的歌就转调</LRC>
+<LRC TAG="190530">千万不要自寻烦恼</LRC>
+<LRC TAG="193530">小烦恼没什么大不了</LRC>
+<LRC TAG="196100">请让我看到你翘起来的嘴角</LRC>
+<LRC TAG="199530">不属于你的就不要</LRC>
+<LRC TAG="202470">快乐不靠拥有多少</LRC>
+</LYRICS>
+</MUSIC>

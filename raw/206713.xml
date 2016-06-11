@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>七夕</TITLE>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST></ARTIST>
+<LYRICS>
+<LRC TAG="70">七夕 - 许嵩</LRC>
+<LRC TAG="1770">词曲：许嵩</LRC>
+<LRC TAG="4670">编曲：许嵩</LRC>
+<LRC TAG="7970">梦幻音域制作</LRC>
+<LRC TAG="9680">周敏QQ1184854945</LRC>
+<LRC TAG="13330">歌词编辑：费翔</LRC>
+<LRC TAG="15680">QQ1421210858</LRC>
+<LRC TAG="22740">江畔暮雨纷纷</LRC>
+<LRC TAG="24390">夕阳西沉</LRC>
+<LRC TAG="26300">津渡烛影深深</LRC>
+<LRC TAG="28100">是我在等</LRC>
+<LRC TAG="29950">你歌声犹绕耳</LRC>
+<LRC TAG="31850">清风在侧</LRC>
+<LRC TAG="33310">恍然发觉 琴案已蒙尘</LRC>
+<LRC TAG="52710">当日罗带轻分缘定今生</LRC>
+<LRC TAG="56230">时光一去如梭似你穿针</LRC>
+<LRC TAG="60030">魁星未拜</LRC>
+<LRC TAG="60240">禅门苔上屐痕</LRC>
+<LRC TAG="63640">到访三五痴心人</LRC>
+<LRC TAG="71390">夜幕垂 鹊桥会</LRC>
+<LRC TAG="73150">七夕的念想</LRC>
+<LRC TAG="74950">皎月归 我轻随</LRC>
+<LRC TAG="76850">烟火对影赏</LRC>
+<LRC TAG="78750">小城老街上</LRC>
+<LRC TAG="80600">有情人执手同徜徉</LRC>
+<LRC TAG="86370">夜幕垂 鹊桥会</LRC>
+<LRC TAG="88120">七夕的念想</LRC>
+<LRC TAG="89970">你没归 我独醉</LRC>
+<LRC TAG="91970">情话无人讲</LRC>
+<LRC TAG="93720">也就不用讲</LRC>
+<LRC TAG="95630">且把浓情化作诗两行</LRC>
+<LRC TAG="116450">江畔暮雨纷纷</LRC>
+<LRC TAG="118060">夕阳西沉</LRC>
+<LRC TAG="120010">津渡烛影深深</LRC>
+<LRC TAG="121810">是我在等</LRC>
+<LRC TAG="123760">你歌声犹绕耳</LRC>
+<LRC TAG="125610">清风在侧</LRC>
+<LRC TAG="126990">恍然发觉 琴案已蒙尘</LRC>
+<LRC TAG="131190">当日罗带轻分缘定今生</LRC>
+<LRC TAG="134900">时光一去如梭似你穿针</LRC>
+<LRC TAG="138750">魁星未拜</LRC>
+<LRC TAG="139700">禅门苔上屐痕</LRC>
+<LRC TAG="142310">到访三五痴心人</LRC>
+<LRC TAG="150170">夜幕垂 鹊桥会</LRC>
+<LRC TAG="151870">七夕的念想</LRC>
+<LRC TAG="153720">皎月归 我轻随</LRC>
+<LRC TAG="155620">烟火对影赏</LRC>
+<LRC TAG="157370">小城老街上</LRC>
+<LRC TAG="159230">有情人执手同徜徉</LRC>
+<LRC TAG="165120">夜幕垂 鹊桥会</LRC>
+<LRC TAG="166780">七夕的念想</LRC>
+<LRC TAG="168580">你没归 我独醉</LRC>
+<LRC TAG="170580">情话无人讲</LRC>
+<LRC TAG="172430">也就不用讲</LRC>
+<LRC TAG="174330">且把浓情化作诗两行</LRC>
+<LRC TAG="180190">夜幕垂 鹊桥会</LRC>
+<LRC TAG="181840">七夕的念想</LRC>
+<LRC TAG="183690">皎月归 我轻随</LRC>
+<LRC TAG="185590">烟火对影赏</LRC>
+<LRC TAG="187440">小城老街上</LRC>
+<LRC TAG="189290">有情人执手同徜徉</LRC>
+<LRC TAG="195090">夜幕垂 鹊桥会</LRC>
+<LRC TAG="196790">七夕的念想</LRC>
+<LRC TAG="198690">你没归 我独醉</LRC>
+<LRC TAG="200590">情话无人讲</LRC>
+<LRC TAG="202400">也就不用讲</LRC>
+<LRC TAG="204400">且把浓情化作诗两行</LRC>
+</LYRICS>
+</MUSIC>

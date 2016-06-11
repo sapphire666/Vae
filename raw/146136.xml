@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>心疼你的过去</TITLE>
+<ARTIST></ARTIST>
+<ALBUM>许嵩</ALBUM>
+<OFFSET>0</OFFSET>
+<ALBUM></ALBUM>
+<ARTIST>许嵩</ARTIST>
+<LYRICS>
+<LRC TAG="0">心疼你的过去</LRC>
+<LRC TAG="1430">作词：许嵩</LRC>
+<LRC TAG="3490">作曲：许嵩</LRC>
+<LRC TAG="6110">唱：许嵩</LRC>
+<LRC TAG="13480">Baby 我看着你的眼睛</LRC>
+<LRC TAG="17290">总是带着蓝色笑意</LRC>
+<LRC TAG="19080">和你在一起就是非常开心的事情</LRC>
+<LRC TAG="21970">好多人羡慕我</LRC>
+<LRC TAG="23690">夸赞你的美丽</LRC>
+<LRC TAG="25750">我模仿你的笑容回报给他们官方的谢意</LRC>
+<LRC TAG="28860">也苦笑我自己</LRC>
+<LRC TAG="35820">你跟我说有个朋友为了一场分手喝酒</LRC>
+<LRC TAG="40440">割腕 闹跳楼 让家人急白了头</LRC>
+<LRC TAG="44000">她的男人倜傥风流</LRC>
+<LRC TAG="45930">哄骗女生功夫一流</LRC>
+<LRC TAG="48020">而你的傻傻朋友身心被人骗了还帮别人数钱</LRC>
+<LRC TAG="54300">输了她宝贵的一切</LRC>
+<LRC TAG="58070">多可怜</LRC>
+<LRC TAG="66670">忽然你哭了</LRC>
+<LRC TAG="68140">问你在哭什么</LRC>
+<LRC TAG="69590">你哭的更狠了</LRC>
+<LRC TAG="71420">我好像明白了</LRC>
+<LRC TAG="73200">你一五一十的说出他对你犯的错</LRC>
+<LRC TAG="77120">我胸口像是凝聚了一团一团的火</LRC>
+<LRC TAG="81000">如果他敢站在我的面前</LRC>
+<LRC TAG="83410">我不敢想象我会对他做什么</LRC>
+<LRC TAG="88580">你轻轻的安慰我</LRC>
+<LRC TAG="92300">不要再回味过去的对错</LRC>
+<LRC TAG="95990">要珍惜未来生活</LRC>
+<LRC TAG="99150">我嘴上答应但心里还是很痛</LRC>
+<LRC TAG="106920">心疼你的过去</LRC>
+<LRC TAG="110260">谁作孽的悲剧</LRC>
+<LRC TAG="114510">擦掉眼泪很容易</LRC>
+<LRC TAG="117960">但却无法擦掉回忆</LRC>
+<LRC TAG="120890">心疼你的过去</LRC>
+<LRC TAG="125840">别怕流言蜚语</LRC>
+<LRC TAG="129210">用力闭上了眼睛</LRC>
+<LRC TAG="132600">过去过不去都会过去</LRC>
+<LRC TAG="156190">忽然你哭了</LRC>
+<LRC TAG="158250">问你在哭什么</LRC>
+<LRC TAG="160030">你哭的更狠了</LRC>
+<LRC TAG="161910">我好像明白了</LRC>
+<LRC TAG="163790">你一五一十的说出他对你犯的错</LRC>
+<LRC TAG="167610">我胸口像是凝聚了一团一团的火</LRC>
+<LRC TAG="171590">如果他敢站在我的面前</LRC>
+<LRC TAG="174170">我不敢想象我会对他做什么</LRC>
+<LRC TAG="179070">你轻轻的安慰我</LRC>
+<LRC TAG="182740">不要再回味过去的对错</LRC>
+<LRC TAG="186360">要珍惜未来生活</LRC>
+<LRC TAG="190050">我嘴上答应但心里还是很痛</LRC>
+<LRC TAG="196730">心疼你的过去</LRC>
+<LRC TAG="200710">谁作孽的悲剧</LRC>
+<LRC TAG="204940">擦掉眼泪很容易</LRC>
+<LRC TAG="207870">但却无法擦掉回忆</LRC>
+<LRC TAG="211820">心疼你的过去</LRC>
+<LRC TAG="215580">别怕流言蜚语</LRC>
+<LRC TAG="219800">用力闭上了眼睛</LRC>
+<LRC TAG="223210">过去过不去都会过去</LRC>
+<LRC TAG="229400">心疼你的过去</LRC>
+<LRC TAG="232470">谁作孽的悲剧</LRC>
+<LRC TAG="236050">擦掉眼泪很容易</LRC>
+<LRC TAG="239290">但却无法擦掉回忆</LRC>
+<LRC TAG="243280">心疼你的过去</LRC>
+<LRC TAG="247380">别怕流言蜚语</LRC>
+<LRC TAG="251100">用力闭上了眼睛</LRC>
+<LRC TAG="254490">过去过不去都会过去</LRC>
+<LRC TAG="262560">中文歌词库 www.CnLyric.com</LRC>
+</LYRICS>
+</MUSIC>

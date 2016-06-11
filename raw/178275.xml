@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>英国情人</TITLE>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST></ARTIST>
+<LYRICS>
+<LRC TAG="3670">在10月的季节里见到你真好</LRC>
+<LRC TAG="7710">你从英格兰岛上来到</LRC>
+<LRC TAG="11920">我喜欢你墨蓝色的毛线外套</LRC>
+<LRC TAG="16160">看上去温暖 很有味道</LRC>
+<LRC TAG="20940">我的英文听起来是有些糟糕</LRC>
+<LRC TAG="24710">倒是你的中文说的蛮好</LRC>
+<LRC TAG="29500">有时候你会给我唱家乡民谣</LRC>
+<LRC TAG="33830">在那印度餐馆旁边的小街角</LRC>
+<LRC TAG="38050">英国情人 你是玛格列特的骄傲</LRC>
+<LRC TAG="42540">你的嘴角 总扬起60年代的微笑</LRC>
+<LRC TAG="46800">英国情人 一个别来无恙的拥抱</LRC>
+<LRC TAG="51320">你的眼神 不假思索打湿我的睫毛</LRC>
+<LRC TAG="55940">英国情人 你知不知道</LRC>
+<LRC TAG="57800">你的发梢残留夏天的味道</LRC>
+<LRC TAG="59970">英国情人 你应该知道</LRC>
+<LRC TAG="62080">你应该知道 这个秋天来的刚刚好</LRC>
+<LRC TAG="64290">在10月的季节里见到你真好</LRC>
+<LRC TAG="68570">你从英格兰岛上来到</LRC>
+<LRC TAG="73160">我喜欢你墨蓝色的毛线外套</LRC>
+<LRC TAG="77170">看上去温暖 很有味道</LRC>
+<LRC TAG="81750">我们站在塞纳-瓦滋的高架桥</LRC>
+<LRC TAG="86060">用平静的方式来为生活祈祷</LRC>
+<LRC TAG="90280">英国情人 你是玛格列特的骄傲</LRC>
+<LRC TAG="94790">你的嘴角 总扬起60年代的微笑</LRC>
+<LRC TAG="99080">英国情人 一个别来无恙的拥抱</LRC>
+<LRC TAG="103480">你的眼神 不假思索打湿我的睫毛</LRC>
+<LRC TAG="108000">英国情人 你是玛格列特的骄傲</LRC>
+<LRC TAG="112230">你的嘴角 总扬起60年代的微笑</LRC>
+<LRC TAG="116590">英国情人 一个别来无恙的拥抱</LRC>
+<LRC TAG="122470">你的眼神 不假思索打湿我的睫毛</LRC>
+<LRC TAG="129720">英国情人</LRC>
+<LRC TAG="131290">作词：符榕</LRC>
+<LRC TAG="133840">编曲：Borland</LRC>
+<LRC TAG="135120">作曲/演唱：许嵩</LRC>
+<LRC TAG="142750">英国情人 你知不知道</LRC>
+<LRC TAG="145030">你的发梢残留夏天的味道</LRC>
+<LRC TAG="147170">英国情人 你应该知道</LRC>
+<LRC TAG="149430">你应该知道 这个秋天来的刚刚好</LRC>
+<LRC TAG="151670">英国情人 你知不知道</LRC>
+<LRC TAG="153720">你的发梢残留夏天的味道</LRC>
+<LRC TAG="155900">英国情人 你应该知道</LRC>
+<LRC TAG="157990">你应该知道 这个秋天来的刚刚好</LRC>
+<LRC TAG="160350">英国情人 你是玛格列特的骄傲</LRC>
+<LRC TAG="164700">你的嘴角 总扬起60年代的微笑</LRC>
+<LRC TAG="168970">英国情人 一个别来无恙的拥抱</LRC>
+<LRC TAG="173370">你的眼神 不假思索打湿我的睫毛</LRC>
+<LRC TAG="177830">英国情人 你是玛格列特的骄傲</LRC>
+<LRC TAG="182060">你的嘴角 总扬起60年代的微笑</LRC>
+<LRC TAG="186480">英国情人 一个别来无恙的拥抱</LRC>
+<LRC TAG="190910">你的眼神 不假思索打湿我的睫毛</LRC>
+</LYRICS>
+</MUSIC>

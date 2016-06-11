@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>南山忆</TITLE>
+<ARTIST></ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST>许嵩</ARTIST>
+<LYRICS>
+<LRC TAG="0">许嵩 - 南山忆</LRC>
+<LRC TAG="11420">编辑：小谨 QQ：1913847297</LRC>
+<LRC TAG="22000">乘一叶扁舟 入景随风 望江畔渔火</LRC>
+<LRC TAG="28600">转竹林深处 残碑小筑 僧侣始复诵</LRC>
+<LRC TAG="35120">苇岸红亭中 抖抖绿蓑 邀南山对酌</LRC>
+<LRC TAG="41410">纸钱晚风送 谁家又添新痛</LRC>
+<LRC TAG="47000">独揽月下萤火 照亮一纸寂寞</LRC>
+<LRC TAG="53330">追忆那些什么 你说的爱我</LRC>
+<LRC TAG="59900">花开后花又落 轮回也没结果</LRC>
+<LRC TAG="66560">苔上雪告诉我 你没归来过</LRC>
+<LRC TAG="88200">遥想多年前 烟花满天 你静静抱着我</LRC>
+<LRC TAG="94370">丝竹声悠悠 教人忘忧 若南柯一梦</LRC>
+<LRC TAG="101190">星斗青光透 时无英雄 心猿已深锁</LRC>
+<LRC TAG="107790">可你辞世后 我再也没笑过</LRC>
+<LRC TAG="113000">独揽月下萤火 照亮一纸寂寞</LRC>
+<LRC TAG="119350">追忆那些什么 你说的爱我</LRC>
+<LRC TAG="126110">花开后花又落 轮回也没结果</LRC>
+<LRC TAG="132680">苔上雪告诉我 你没归来过</LRC>
+<LRC TAG="153000">独揽月下萤火 照亮一纸寂寞</LRC>
+<LRC TAG="159030">追忆那些什么 你说的爱我</LRC>
+<LRC TAG="165900">花开后花又落 轮回也没结果</LRC>
+<LRC TAG="172330">苔上雪告诉我 你没归来过</LRC>
+<LRC TAG="179400">花开后花又落 轮回也没结果</LRC>
+<LRC TAG="185630">苔上雪告诉我 你没归来过</LRC>
+<LRC TAG="192260">编辑：小谨 QQ：1913847297</LRC>
+<LRC TAG="198220">---END---</LRC>
+</LYRICS>
+</MUSIC>

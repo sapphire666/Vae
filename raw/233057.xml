@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>燕归巢</TITLE>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST></ARTIST>
+<LYRICS>
+<LRC TAG="1610">燕归巢 - 许嵩</LRC>
+<LRC TAG="3840">词曲：许嵩</LRC>
+<LRC TAG="48330">雨后江岸天破晓</LRC>
+<LRC TAG="51280">老舟新客知多少</LRC>
+<LRC TAG="54940">远山见竹林芳草</LRC>
+<LRC TAG="57980">晨风抚绿了芭蕉</LRC>
+<LRC TAG="62200">寒梅落尽把冬了</LRC>
+<LRC TAG="65700">衔春的燕想归巢</LRC>
+<LRC TAG="69360">沿途的景 牵挂的人</LRC>
+<LRC TAG="72970">两情迢迢</LRC>
+<LRC TAG="76470">柳叶桨溅桃花浪</LRC>
+<LRC TAG="79210">汀州里鹤眺远方</LRC>
+<LRC TAG="83530">饮一盏岁月留香</LRC>
+<LRC TAG="86270">唱一曲往事飞扬</LRC>
+<LRC TAG="90740">山水间歌声回荡</LRC>
+<LRC TAG="94250">回荡思念的滚烫</LRC>
+<LRC TAG="97800">去年的家书两行</LRC>
+<LRC TAG="101560">读来又热了眼眶</LRC>
+<LRC TAG="105270">云水边静沐暖阳</LRC>
+<LRC TAG="108410">烟波里久违的故乡</LRC>
+<LRC TAG="112170">别来无恙</LRC>
+<LRC TAG="114810">你在心上</LRC>
+<LRC TAG="120350">歌词编辑：费总QQ1421210858</LRC>
+<LRC TAG="147930">雨后江岸天破晓</LRC>
+<LRC TAG="151740">老舟新客知多少</LRC>
+<LRC TAG="155340">远山见竹林芳草</LRC>
+<LRC TAG="158290">晨风抚绿了芭蕉</LRC>
+<LRC TAG="162500">寒梅落尽把冬了</LRC>
+<LRC TAG="165960">衔春的燕想归巢</LRC>
+<LRC TAG="169720">沿途的景 牵挂的人</LRC>
+<LRC TAG="173320">两情迢迢</LRC>
+<LRC TAG="176930">柳叶桨溅桃花浪</LRC>
+<LRC TAG="179570">汀州里鹤眺远方</LRC>
+<LRC TAG="183780">饮一盏岁月留香</LRC>
+<LRC TAG="186730">唱一曲往事飞扬</LRC>
+<LRC TAG="191200">山水间歌声回荡</LRC>
+<LRC TAG="194750">回荡思念的滚烫</LRC>
+<LRC TAG="198210">去年的家书两行</LRC>
+<LRC TAG="201410">读来又热了眼眶</LRC>
+<LRC TAG="205570">云水边静沐暖阳</LRC>
+<LRC TAG="208870">烟波里久违的故乡</LRC>
+<LRC TAG="212680">别来无恙</LRC>
+<LRC TAG="214920">你在心上</LRC>
+<LRC TAG="220650">儿时的窗 苍老的墙</LRC>
+<LRC TAG="224260">是否偷换了方向</LRC>
+<LRC TAG="227870">堂前的你和我相逢时</LRC>
+<LRC TAG="230610">会沉默还是会诉尽衷肠</LRC>
+<LRC TAG="237610">山水间歌声回荡</LRC>
+<LRC TAG="241320">回荡思念的滚烫</LRC>
+<LRC TAG="244870">去年的家书两行</LRC>
+<LRC TAG="247920">读来又热了眼眶</LRC>
+<LRC TAG="251830">云水边静沐暖阳</LRC>
+<LRC TAG="255290">烟波里久违的故乡</LRC>
+<LRC TAG="259300">别来无恙</LRC>
+<LRC TAG="261180">你在心上</LRC>
+<LRC TAG="270270">别来无恙</LRC>
+<LRC TAG="273420">你在心上</LRC>
+</LYRICS>
+</MUSIC>

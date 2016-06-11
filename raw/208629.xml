@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>隐隐约约</TITLE>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST></ARTIST>
+<LYRICS>
+<LRC TAG="1000">隐隐约约</LRC>
+<LRC TAG="3000">词曲：许嵩</LRC>
+<LRC TAG="5000">演唱：许嵩</LRC>
+<LRC TAG="21380">枕边如此隐隐约约</LRC>
+<LRC TAG="24740">发香绵延好似江水连天</LRC>
+<LRC TAG="28270">指尖如此隐隐约约</LRC>
+<LRC TAG="31820">肩上红线忽明忽暗的坠跌</LRC>
+<LRC TAG="49450">许愿如此隐隐约约</LRC>
+<LRC TAG="52930">落款未签日出之后变脸</LRC>
+<LRC TAG="56550">有眼如此隐隐约约</LRC>
+<LRC TAG="59990">记录一切鱼死网破的决裂</LRC>
+<LRC TAG="77750">隐隐约约哑巴吃黄连</LRC>
+<LRC TAG="84680">隐隐约约上不了台面</LRC>
+<LRC TAG="91520">隐隐约约乌云想遮天</LRC>
+<LRC TAG="98550">隐隐约约故事到此忽然了结</LRC>
+<LRC TAG="155220">隐隐约约哑巴吃黄连</LRC>
+<LRC TAG="162330">隐隐约约上不了台面</LRC>
+<LRC TAG="169340">隐隐约约乌云想遮天</LRC>
+<LRC TAG="176330">隐隐约约故事到此忽然了结</LRC>
+</LYRICS>
+</MUSIC>

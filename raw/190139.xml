@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>别咬我</TITLE>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST></ARTIST>
+<OFFSET>500</OFFSET>
+<LYRICS>
+<LRC TAG="3290">稍息，立正！站好..快站好..哎，小v啊，我家狗怎么不听话阿？</LRC>
+<LRC TAG="14060">狗习惯爬着走，你非让它站..对不对..</LRC>
+<LRC TAG="15580">也对，毕竟是狗嘛,不能对它要求太高.那就随便遛它玩玩好了..</LRC>
+<LRC TAG="23240">果然2007 Vae又回到了这里</LRC>
+<LRC TAG="25800">温柔的rap一些事情给你们听</LRC>
+<LRC TAG="27990">认真听 如果没耐心听</LRC>
+<LRC TAG="30310">现在就请立刻把播放器关闭</LRC>
+<LRC TAG="33190">别说2007就是3007</LRC>
+<LRC TAG="35800">还是会有xx伴随我们这样一路吼下去</LRC>
+<LRC TAG="38080">作词作曲虽然是我的乐趣</LRC>
+<LRC TAG="39700">但为此高歌一曲是不是对它太过抬举</LRC>
+<LRC TAG="42640">我只坐在键盘前</LRC>
+<LRC TAG="45300">用心写自己原创歌曲</LRC>
+<LRC TAG="47850">这是我的天赋和我的兴趣</LRC>
+<LRC TAG="50470">谁在背后导演一出阴谋没安好心</LRC>
+<LRC TAG="53440">原来简单的音乐</LRC>
+<LRC TAG="56590">却被利益纠结不干净</LRC>
+<LRC TAG="57900">音乐里每个音符和纯粹的心</LRC>
+<LRC TAG="60690">为何总逃不脱要面对伪善的命运</LRC>
+<LRC TAG="61540">我曾经问自己</LRC>
+<LRC TAG="65040">是否有必要这么潇洒的还击</LRC>
+<LRC TAG="68280">但有些人让我想到就恶心</LRC>
+<LRC TAG="70860">我还是该拿出大哥哥的勇气</LRC>
+<LRC TAG="73950">我常常问自己</LRC>
+<LRC TAG="77470">道貌岸然的人是否残存良心</LRC>
+<LRC TAG="78730">如果是因为有心理的疾病</LRC>
+<LRC TAG="81170">欢迎去安徽寻访名医Vae</LRC>
+<LRC TAG="85310">先做人 后做事 这道理难道你们不懂吗</LRC>
+<LRC TAG="90220">发什么 重要吗 是否对得住你老爸老妈</LRC>
+<LRC TAG="105220">江南风光好</LRC>
+<LRC TAG="107340">你又怎会明了</LRC>
+<LRC TAG="110050">生命太过潦草</LRC>
+<LRC TAG="112540">猖狂一季终被烧</LRC>
+<LRC TAG="115360">稍息立正站好</LRC>
+<LRC TAG="117670">挺直你的柳腰</LRC>
+<LRC TAG="120550">别再继续无聊</LRC>
+<LRC TAG="122870">藏好你寂寞的圈套</LRC>
+<LRC TAG="131420">利益 又是利益</LRC>
+<LRC TAG="133580">妈妈给了你眼睛</LRC>
+<LRC TAG="135130">你却妥协被利益蒙蔽</LRC>
+<LRC TAG="136950">看见vv日志我都感到寒心</LRC>
+<LRC TAG="139650">不知能否激起你们的零星孝心</LRC>
+<LRC TAG="142480">本世纪迎来一个豮狈的噪音</LRC>
+<LRC TAG="144710">相信你是自掘坟墓 你还指点迷津</LRC>
+<LRC TAG="147370">如果我们站出来就算是暴行</LRC>
+<LRC TAG="149890">那倒卖作品虚报流量算不算恶行</LRC>
+<LRC TAG="152640">太多的恶行 数也数不清</LRC>
+<LRC TAG="154630">你所谓的份内工作我没有恭维的兴趣</LRC>
+<LRC TAG="157730">为钱就露出狗尾巴 在电视上乱哈拉</LRC>
+<LRC TAG="160530">你当中华网民全是白痴啊</LRC>
+<LRC TAG="162740">我我我深呼吸 这里狗吠不安静</LRC>
+<LRC TAG="165640">为为为钱卖命 哪都没你容身地</LRC>
+<LRC TAG="167950">面具撕开丑陋的脸和心被整个世界唾弃</LRC>
+<LRC TAG="172560">我曾经问自己</LRC>
+<LRC TAG="174400">是否有必要这么潇洒的还击</LRC>
+<LRC TAG="176990">但有些人让我想到就恶心</LRC>
+<LRC TAG="179270">我还是该拿出大哥哥的勇气</LRC>
+<LRC TAG="182860">我常常问自己</LRC>
+<LRC TAG="184730">道貌岸然的人是否残存良心</LRC>
+<LRC TAG="187640">如果是因为有心理的疾病</LRC>
+<LRC TAG="189800">欢迎去安徽寻访名医Vae</LRC>
+<LRC TAG="193430">寂寞的夜里 窗外下着雨</LRC>
+<LRC TAG="195780">潮湿的空气 肮脏的污泥</LRC>
+<LRC TAG="197280">像是你的心 为什么不洗</LRC>
+<LRC TAG="201170">我眼里充满无限黑暗和光明</LRC>
+<LRC TAG="204300">不是针对你 真的不是你</LRC>
+<LRC TAG="206190">你认真听听 反拍的重音</LRC>
+<LRC TAG="208820">真不想看清 画面已发腻</LRC>
+<LRC TAG="211650">本维笑一笑也许就能略过去</LRC>
+<LRC TAG="214100">江南风光好</LRC>
+<LRC TAG="216260">你又怎会明了</LRC>
+<LRC TAG="218650">生命太过潦草</LRC>
+<LRC TAG="221540">猖狂一季终被烧</LRC>
+<LRC TAG="223880">稍息立正站好</LRC>
+<LRC TAG="226600">挺直你的柳腰</LRC>
+<LRC TAG="229090">别再继续无聊</LRC>
+<LRC TAG="231670">藏好你寂寞的圈套</LRC>
+</LYRICS>
+</MUSIC>

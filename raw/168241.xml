@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>灰色头像</TITLE>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST></ARTIST>
+<LYRICS>
+<LRC TAG="3850">许嵩 - 灰色头像</LRC>
+<LRC TAG="32990">昨夜做了一个梦</LRC>
+<LRC TAG="36470">梦里我们回到手牵着手</LRC>
+<LRC TAG="40660">醒来的失落</LRC>
+<LRC TAG="43030">无法言说</LRC>
+<LRC TAG="47170">打开了OICQ</LRC>
+<LRC TAG="48770">聊天记录停步去年的深秋</LRC>
+<LRC TAG="55440">最后的挽留</LRC>
+<LRC TAG="57800">没有说出口</LRC>
+<LRC TAG="62290">我们还是朋友</LRC>
+<LRC TAG="64860">是那种最遥远的朋友</LRC>
+<LRC TAG="69660">你给过的温柔</LRC>
+<LRC TAG="72290">在记录之中</LRC>
+<LRC TAG="75860">全部都保有</LRC>
+<LRC TAG="78830">你灰色头像不会再跳动</LRC>
+<LRC TAG="82420">哪怕是一句简单的问候</LRC>
+<LRC TAG="85940">心贴心的交流一页页翻阅多难过</LRC>
+<LRC TAG="90680">是什么 坠落 升空</LRC>
+<LRC TAG="93050">又想起你曾说的陪我到最后</LRC>
+<LRC TAG="97140">暖色的梦变冰凉的枷锁</LRC>
+<LRC TAG="100670">如果时光倒流我们又能抓得住什么</LRC>
+<LRC TAG="140100">打开了OICQ</LRC>
+<LRC TAG="143780">聊天记录停步去年的深秋</LRC>
+<LRC TAG="147720">最后的挽留</LRC>
+<LRC TAG="150040">没有说出口</LRC>
+<LRC TAG="154330">我们还是朋友</LRC>
+<LRC TAG="157260">是那种最遥远的朋友</LRC>
+<LRC TAG="161240">你给过的温柔</LRC>
+<LRC TAG="164560">在记录之中</LRC>
+<LRC TAG="168300">全部都保有</LRC>
+<LRC TAG="171270">你灰色头像不会再跳动</LRC>
+<LRC TAG="174750">哪怕是一句简单的问候</LRC>
+<LRC TAG="178130">心贴心的交流一页页翻阅多难过</LRC>
+<LRC TAG="182970">是什么 坠落 升空</LRC>
+<LRC TAG="185440">又想起你曾说的陪我到最后</LRC>
+<LRC TAG="189370">暖色的梦变冰凉的枷锁</LRC>
+<LRC TAG="192900">如果时光倒流我们又能抓得住什么</LRC>
+<LRC TAG="202290">当我发现所谓醒来其实是另一个梦</LRC>
+<LRC TAG="207380">（你不在这世界）</LRC>
+<LRC TAG="208900">梦的出口散不开的浓雾太沉重</LRC>
+<LRC TAG="213840">（你不在这世界）</LRC>
+<LRC TAG="216960">就算当初声嘶力竭作苦苦的求你留下别走</LRC>
+<LRC TAG="226790">也没用</LRC>
+<LRC TAG="231430">灰色头像静静悄悄</LRC>
+<LRC TAG="234210">不会再跳动</LRC>
+<LRC TAG="238340">我的绝望溢出胸口</LRC>
+<LRC TAG="242120">是什么 坠落 升空</LRC>
+<LRC TAG="245100">你灰色头像不会再跳动</LRC>
+<LRC TAG="248630">暖色的梦变冰凉的枷锁</LRC>
+<LRC TAG="252220">如果时光倒流我们又能抓得住什么</LRC>
+</LYRICS>
+</MUSIC>

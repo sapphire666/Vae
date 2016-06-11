@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>玫瑰花的葬礼</TITLE>
+<ARTIST></ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ALBUM>海雷和他的好朋友们</ALBUM>
+<ARTIST>许嵩</ARTIST>
+<LYRICS>
+<LRC TAG="2190">玫瑰花的葬礼</LRC>
+<LRC TAG="5920">歌手：许嵩</LRC>
+<LRC TAG="7810">词：许嵩/李毅杰</LRC>
+<LRC TAG="9300">曲：李毅杰</LRC>
+<LRC TAG="25380">离开你一百个星期</LRC>
+<LRC TAG="28900">我回到了这里</LRC>
+<LRC TAG="29950">寻找我们爱过的证据</LRC>
+<LRC TAG="32310">没有人愿意提起</LRC>
+<LRC TAG="33750">玫瑰花它的过去</LRC>
+<LRC TAG="35230">今天这里的主题</LRC>
+<LRC TAG="36610">我把它叫作 回忆</LRC>
+<LRC TAG="38180">我知道 爱情这东西</LRC>
+<LRC TAG="40050">它没什么道理</LRC>
+<LRC TAG="41290">过去我和你在一起</LRC>
+<LRC TAG="42790">是我太叛逆</LRC>
+<LRC TAG="44030">现在只剩我自己</LRC>
+<LRC TAG="45850">偷偷的想你</LRC>
+<LRC TAG="96370">我在夜幕笼罩的天桥上潜行</LRC>
+<LRC TAG="100360">每一级阶梯</LRC>
+<LRC TAG="101310">都留着你我昔日印迹</LRC>
+<LRC TAG="103140">温存迷醉 吵闹清醒</LRC>
+<LRC TAG="105600">都还在我的脚畔兜……转不清</LRC>
+<LRC TAG="108520">没来得及把红色玫瑰递给你</LRC>
+<LRC TAG="110850">爱就象是一场雨</LRC>
+<LRC TAG="112370">已经离我而去</LRC>
+<LRC TAG="113680">你说过</LRC>
+<LRC TAG="114660">太过鲜艳的爱情 终将凋零</LRC>
+<LRC TAG="166460">总是回想过去</LRC>
+<LRC TAG="168740">埋怨我自己</LRC>
+<LRC TAG="172590">总是不经意间想起了你</LRC>
+<LRC TAG="178430">现在的你已经太遥不可及</LRC>
+<LRC TAG="184290">只能留在我记忆</LRC>
+<LRC TAG="190680">玫瑰花的葬礼</LRC>
+<LRC TAG="192700">埋葬关于你的回忆</LRC>
+<LRC TAG="195850">感觉双手麻痹</LRC>
+<LRC TAG="198220">不能自已</LRC>
+<LRC TAG="199680">已拉不住你</LRC>
+<LRC TAG="202200">真的好美丽</LRC>
+<LRC TAG="204390">那天的烟花雨</LRC>
+<LRC TAG="207730">我说要娶穿碎花洋裙的你</LRC>
+<LRC TAG="213280">玫瑰花的葬礼</LRC>
+<LRC TAG="215940">埋葬深深爱着的你</LRC>
+<LRC TAG="219400">残朵停止呼吸</LRC>
+<LRC TAG="221560">渗入大地</LRC>
+<LRC TAG="223030">没人会注意</LRC>
+<LRC TAG="225220">一片小雨滴</LRC>
+<LRC TAG="227730">陪着我等天明</LRC>
+<LRC TAG="231190">我用这最后一分钟怀念你</LRC>
+<LRC TAG="237530">我用这最后一分钟……</LRC>
+<LRC TAG="242580">==笨笨小妖祝你幸福==</LRC>
+</LYRICS>
+</MUSIC>

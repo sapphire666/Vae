@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>Play with style</TITLE>
+<ARTIST></ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ALBUM>许嵩</ALBUM>
+<ARTIST>许嵩</ARTIST>
+<LYRICS>
+<LRC TAG="0">Play with style</LRC>
+<LRC TAG="1470">作词：许嵩</LRC>
+<LRC TAG="3250">作曲：许嵩</LRC>
+<LRC TAG="6100">唱：许嵩</LRC>
+<LRC TAG="17760">谈什么风格 论什么独特</LRC>
+<LRC TAG="22670">说实话在我眼里全是有的没的撒哈拉</LRC>
+<LRC TAG="26840">名相的造作 心识的困惑</LRC>
+<LRC TAG="31120">还有多少人尝试侧耳倾听自己呼吸和脉搏</LRC>
+<LRC TAG="35480">Show me show me show me</LRC>
+<LRC TAG="38090">让我看到你不是热衷追逐潮流的那种人</LRC>
+<LRC TAG="43120">Show me show me show me</LRC>
+<LRC TAG="46530">让我看到你会做忠于自己的选择</LRC>
+<LRC TAG="51990">Play with style</LRC>
+<LRC TAG="53620">Remember to follow your heart</LRC>
+<LRC TAG="55880">Play with style</LRC>
+<LRC TAG="57730">Then you can be the only winner</LRC>
+<LRC TAG="60410">Play with style</LRC>
+<LRC TAG="61840">Remember to follow your heart</LRC>
+<LRC TAG="64080">Play with style</LRC>
+<LRC TAG="66100">Then you can be the only winner</LRC>
+<LRC TAG="84540">谈什么风格 论什么独特</LRC>
+<LRC TAG="89120">说实话在我眼里全是有的没的撒哈拉</LRC>
+<LRC TAG="93960">名相的造作 心识的困惑</LRC>
+<LRC TAG="97230">还有多少人尝试侧耳倾听自己呼吸和脉搏</LRC>
+<LRC TAG="102110">Show me show me show me</LRC>
+<LRC TAG="105000">让我看到你不是热衷追逐潮流的那种人</LRC>
+<LRC TAG="109920">Show me show me show me</LRC>
+<LRC TAG="112960">让我看到你会做忠于自己的选择</LRC>
+<LRC TAG="118810">Play with style</LRC>
+<LRC TAG="120430">Remember to follow your heart</LRC>
+<LRC TAG="122210">Play with style</LRC>
+<LRC TAG="124480">Then you can be the only winner</LRC>
+<LRC TAG="127140">Play with style</LRC>
+<LRC TAG="128800">Remember to follow your heart</LRC>
+<LRC TAG="131210">Play with style</LRC>
+<LRC TAG="132910">Then you can be the only winner</LRC>
+<LRC TAG="135110">Play with style</LRC>
+<LRC TAG="136660">Remember to follow your heart</LRC>
+<LRC TAG="139050">Play with style</LRC>
+<LRC TAG="140840">Then you can be the only winner</LRC>
+<LRC TAG="143780">Play with style</LRC>
+<LRC TAG="145420">Remember to follow your heart</LRC>
+<LRC TAG="147920">Play with style</LRC>
+<LRC TAG="149460">Then you can be the only winner</LRC>
+<LRC TAG="163030">中文歌词库 www.CnLyric.com</LRC>
+</LYRICS>
+</MUSIC>

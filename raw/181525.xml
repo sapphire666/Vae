@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>她告诉我</TITLE>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST></ARTIST>
+<LYRICS>
+<LRC TAG="1670">她告诉我</LRC>
+<LRC TAG="5530">词曲：丹戈尔</LRC>
+<LRC TAG="8440">演唱：许嵩</LRC>
+<LRC TAG="17840">他们说你是不是没睡好</LRC>
+<LRC TAG="21880">黑眼圈那么重</LRC>
+<LRC TAG="26200">头发乱得像纠结的草垛</LRC>
+<LRC TAG="30150">这纠结的生活</LRC>
+<LRC TAG="33980">可能昨天是熬到了三点钟</LRC>
+<LRC TAG="38420">整个世界只有我</LRC>
+<LRC TAG="42510">打个电话那头没人接</LRC>
+<LRC TAG="48220">一直都没人接</LRC>
+<LRC TAG="54200">可是she told me</LRC>
+<LRC TAG="58250">想她的时候就给她个电话</LRC>
+<LRC TAG="62270">所以别人怎么说</LRC>
+<LRC TAG="66460">我始终不能相信</LRC>
+<LRC TAG="70680">可是she told me</LRC>
+<LRC TAG="74530">她丢了电话也不想换新号码</LRC>
+<LRC TAG="79180">所以我相信</LRC>
+<LRC TAG="80860">不能不相信</LRC>
+<LRC TAG="82850">像小说一样的结局</LRC>
+<LRC TAG="92600">他们说一个人也是照样过</LRC>
+<LRC TAG="96550">除了工作还是工作</LRC>
+<LRC TAG="100240">头发乱也不会想那么多</LRC>
+<LRC TAG="104640">就一个人生活</LRC>
+<LRC TAG="108670">不想每天都熬到三点钟</LRC>
+<LRC TAG="112960">整个世界只有我</LRC>
+<LRC TAG="117070">打个电话那头没人接</LRC>
+<LRC TAG="122880">一直都没人接</LRC>
+<LRC TAG="128490">可是she told me</LRC>
+<LRC TAG="132790">想她的时候就给她个电话</LRC>
+<LRC TAG="136780">所以别人怎么说</LRC>
+<LRC TAG="140820">我始终不能相信</LRC>
+<LRC TAG="145250">可是she told me</LRC>
+<LRC TAG="149090">她丢了电话也不想换新号码</LRC>
+<LRC TAG="153580">所以我相信</LRC>
+<LRC TAG="155560">不能不相信</LRC>
+<LRC TAG="157550">像小说一样的结局</LRC>
+</LYRICS>
+</MUSIC>

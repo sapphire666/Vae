@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>清明雨上</TITLE>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST></ARTIST>
+<LYRICS>
+<LRC TAG="5160">许嵩 - 清明雨上</LRC>
+<LRC TAG="27320">窗透初晓 日照西桥 云自摇</LRC>
+<LRC TAG="33490">想你当年荷风微摆的衣角</LRC>
+<LRC TAG="41030">木雕流金 岁月涟漪 七年前封笔</LRC>
+<LRC TAG="46940">因为我今生挥毫只为你</LRC>
+<LRC TAG="54030">雨打湿了眼眶 年年倚井盼归堂</LRC>
+<LRC TAG="60780">最怕不觉泪已拆两行</LRC>
+<LRC TAG="66490">我在人间彷徨 寻不到你的天堂</LRC>
+<LRC TAG="73050">东瓶西镜放 恨不能遗忘</LRC>
+<LRC TAG="79600">又是清明雨上 折菊寄到你身旁</LRC>
+<LRC TAG="86900">把你最爱的歌来轻轻唱</LRC>
+<LRC TAG="107040">远方有琴 愀然空灵 声声催天雨</LRC>
+<LRC TAG="113670">涓涓心事说给自己听</LRC>
+<LRC TAG="120170">月影憧憧 烟火几重 烛花红</LRC>
+<LRC TAG="126720">红尘旧梦 梦断都成空</LRC>
+<LRC TAG="133450">雨打湿了眼眶 年年倚井盼归堂</LRC>
+<LRC TAG="140200">最怕不觉泪已拆两行</LRC>
+<LRC TAG="146070">我在人间彷徨 寻不到你的天堂</LRC>
+<LRC TAG="152790">东瓶西镜放 恨不能遗忘</LRC>
+<LRC TAG="159240">又是清明雨上 折菊寄到你身旁</LRC>
+<LRC TAG="166310">把你最爱的歌来轻轻唱</LRC>
+<LRC TAG="172340">我在人间彷徨 寻不到你的天堂</LRC>
+<LRC TAG="179090">东瓶西镜放 恨不能遗忘</LRC>
+<LRC TAG="185800">又是清明雨上 折菊寄到你身旁</LRC>
+<LRC TAG="192730">把你最爱的歌来轻轻唱</LRC>
+</LYRICS>
+</MUSIC>

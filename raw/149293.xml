@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>尘世美</TITLE>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST></ARTIST>
+<LYRICS>
+<LRC TAG="34260">六月三槐柳岸</LRC>
+<LRC TAG="35500">南风入弦枝头摇摆诉新蝉</LRC>
+<LRC TAG="40690">微雨过小荷翻</LRC>
+<LRC TAG="42900">他们的爱在那个初夏点燃</LRC>
+<LRC TAG="45280">相看两不厌行走在大自然</LRC>
+<LRC TAG="53790">她靠着他他抱着她</LRC>
+<LRC TAG="56070">日暮到黄昏</LRC>
+<LRC TAG="57090">情思如溪水悠长恬淡</LRC>
+<LRC TAG="58660">天上有那么多的星星</LRC>
+<LRC TAG="60900">什么紫薇星天狼星文曲星北极星</LRC>
+<LRC TAG="65410">她低头伸出手心</LRC>
+<LRC TAG="67320">他轻轻在她耳边说</LRC>
+<LRC TAG="69220">星星是他看她的眼睛</LRC>
+<LRC TAG="72590">月色如浅唱江火似流萤</LRC>
+<LRC TAG="79040">缓缓流淌的爱芳菲不尽</LRC>
+<LRC TAG="85160">他们都说尘世那么美</LRC>
+<LRC TAG="87200">相守着你爱的那个谁</LRC>
+<LRC TAG="90700">白发渔樵老月青山</LRC>
+<LRC TAG="93880">平平淡淡值得珍贵</LRC>
+<LRC TAG="97400">他们都说尘世那么美</LRC>
+<LRC TAG="100490">心中有爱谁和谁会不美</LRC>
+<LRC TAG="103710">把酒言欢你斟酌我举杯</LRC>
+<LRC TAG="110040">和陌陌红尘共醉</LRC>
+<LRC TAG="138020">六月三槐柳岸</LRC>
+<LRC TAG="139760">南风入弦枝头摇摆诉新蝉</LRC>
+<LRC TAG="144460">微雨过小荷翻</LRC>
+<LRC TAG="145970">他们的爱在那个初夏点燃</LRC>
+<LRC TAG="150460">相看两不厌行走在大自然</LRC>
+<LRC TAG="156960">她靠着他他抱着她</LRC>
+<LRC TAG="158680">日暮到黄昏</LRC>
+<LRC TAG="159830">情思如溪水悠长恬淡</LRC>
+<LRC TAG="163530">天上有那么多的星星</LRC>
+<LRC TAG="166250">什么紫薇星天狼星文曲星北极星</LRC>
+<LRC TAG="169260">她低头伸出手心</LRC>
+<LRC TAG="171010">他轻轻在她耳边说</LRC>
+<LRC TAG="172890">星星是他看她的眼睛</LRC>
+<LRC TAG="176420">月色如浅唱江火似流萤</LRC>
+<LRC TAG="181010">缓缓流淌的爱芳菲不尽</LRC>
+<LRC TAG="192050">他们都说尘世那么美</LRC>
+<LRC TAG="194640">相守着你爱的那个谁</LRC>
+<LRC TAG="197830">白发渔樵老月青山</LRC>
+<LRC TAG="201060">平平淡淡值得珍贵</LRC>
+<LRC TAG="204660">他们都说尘世那么美</LRC>
+<LRC TAG="207590">心中有爱谁和谁会不美</LRC>
+<LRC TAG="210800">把酒言欢你斟酌我举杯</LRC>
+<LRC TAG="217070">他们都说尘世那么美</LRC>
+<LRC TAG="220870">相守着你爱的那个谁</LRC>
+<LRC TAG="223850">白发渔樵老月青山</LRC>
+<LRC TAG="226940">平平淡淡值得珍贵</LRC>
+<LRC TAG="230680">他们都说尘世那么美</LRC>
+<LRC TAG="233610">心中有爱谁和谁会不美</LRC>
+<LRC TAG="236860">把酒言欢你斟酌我举杯</LRC>
+<LRC TAG="243050">和陌陌红尘共醉</LRC>
+</LYRICS>
+</MUSIC>

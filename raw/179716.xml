@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>违章动物</TITLE>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST></ARTIST>
+<LYRICS>
+<LRC TAG="120">许嵩 - 违章动物</LRC>
+<LRC TAG="5120">词曲：许嵩</LRC>
+<LRC TAG="40120">我目睹街角的蝴蝶飞上了青天</LRC>
+<LRC TAG="45440">要探访青天大老爷</LRC>
+<LRC TAG="52130">相关衙门提出了一些指导性意见</LRC>
+<LRC TAG="57780">街坊玩命转播真相与流言</LRC>
+<LRC TAG="63850">卖红薯的姑娘想在学堂门前摆摊</LRC>
+<LRC TAG="70730">那不可以没钱 也不可以不陪笑脸</LRC>
+<LRC TAG="79300">有点小权的 时时刻刻都想要用上小权</LRC>
+<LRC TAG="84860">而有大权的 脑子坏了才和你站一边</LRC>
+<LRC TAG="91210">一群高贵气质的差人在处罚违章动物</LRC>
+<LRC TAG="97390">她一身尘土 在街角迷了路</LRC>
+<LRC TAG="104390">一群高贵气质的差人在处罚违章动物</LRC>
+<LRC TAG="110560">缄默的泪 没有人在乎</LRC>
+<LRC TAG="140700">这繁华的城池有时让人感到陌生</LRC>
+<LRC TAG="145430">当乌云不断堆叠 暴雨也就如期而至</LRC>
+<LRC TAG="150770">“幸福”的定义连番升级</LRC>
+<LRC TAG="155620">拒绝回到初始版本</LRC>
+<LRC TAG="159070">就买个红薯吧 否则夜太寒冷</LRC>
+<LRC TAG="165340">一群高贵气质的差人在处罚违章动物</LRC>
+<LRC TAG="171430">她一身尘土 在街角迷了路</LRC>
+<LRC TAG="176690">一群高贵气质的差人在处罚违章动物</LRC>
+<LRC TAG="184920">缄默的泪 没有人在乎</LRC>
+<LRC TAG="192450">一群高贵气质的差人在处罚违章动物</LRC>
+<LRC TAG="197580">她一身尘土 在街角迷了路</LRC>
+<LRC TAG="204410">一群高贵气质的差人在处罚违章动物</LRC>
+<LRC TAG="210870">缄默的泪 汇成这方土地的湖</LRC>
+</LYRICS>
+</MUSIC>

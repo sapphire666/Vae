@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>城府</TITLE>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST></ARTIST>
+<LYRICS>
+<LRC TAG="990">许嵩 - 城府</LRC>
+<LRC TAG="34370">你走之后</LRC>
+<LRC TAG="35390">一个夏季熬成一个秋</LRC>
+<LRC TAG="37570">我的书上你的正楷眉清目秀</LRC>
+<LRC TAG="40720">一字一字宣告我们和平分手</LRC>
+<LRC TAG="44270">好委婉的交流</LRC>
+<LRC TAG="46110">还带一点征求</LRC>
+<LRC TAG="47780">你已成风</LRC>
+<LRC TAG="48950">幻化的雨下错了季候</LRC>
+<LRC TAG="51130">明媚的眼眸里温柔化为了乌有</LRC>
+<LRC TAG="54340">一层一层院墙把你的心困守</LRC>
+<LRC TAG="57890">如果没法回头</LRC>
+<LRC TAG="59670">这样也没不妥</LRC>
+<LRC TAG="61300">你的城府有多深</LRC>
+<LRC TAG="64450">我爱的有多蠢</LRC>
+<LRC TAG="67190">是我太笨</LRC>
+<LRC TAG="68670">还是太认真</LRC>
+<LRC TAG="71400">幻想和你过一生</LRC>
+<LRC TAG="74650">你的城府有多深</LRC>
+<LRC TAG="78050">我爱的有多蠢</LRC>
+<LRC TAG="80690">不想再问</LRC>
+<LRC TAG="82260">也无法去恨</LRC>
+<LRC TAG="84850">毕竟你是我最爱的人</LRC>
+<LRC TAG="92010">曾经你的眼神</LRC>
+<LRC TAG="93380">看起来那么单纯</LRC>
+<LRC TAG="95050">嗯 指向你干净的灵魂</LRC>
+<LRC TAG="98300">什么时候开始变得满是伤痕</LRC>
+<LRC TAG="101760">戴上假面也好</LRC>
+<LRC TAG="103230">如果不会疼</LRC>
+<LRC TAG="105060">爱情这个世界</LRC>
+<LRC TAG="106690">有那么多的悖论</LRC>
+<LRC TAG="108520">小心翼翼不见得就获得满分</LRC>
+<LRC TAG="111870">我们之间缺少了那么多信任</LRC>
+<LRC TAG="115330">最后还是没有</LRC>
+<LRC TAG="117050">打开那扇心门</LRC>
+<LRC TAG="118770">你的城府有多深</LRC>
+<LRC TAG="122070">我爱的有多蠢</LRC>
+<LRC TAG="124620">是我太笨</LRC>
+<LRC TAG="126090">还是太认真</LRC>
+<LRC TAG="128730">幻想和你过一生</LRC>
+<LRC TAG="132030">你的城府有多深</LRC>
+<LRC TAG="135380">我爱的有多蠢</LRC>
+<LRC TAG="138020">不想再问</LRC>
+<LRC TAG="139540">也无法去恨</LRC>
+<LRC TAG="142240">毕竟你是我最爱的人</LRC>
+<LRC TAG="149600">我曾经苦笑着问过我自己</LRC>
+<LRC TAG="155380">在某个夜里</LRC>
+<LRC TAG="156960">卸下伪装的你</LRC>
+<LRC TAG="158480">是不是也会哭泣</LRC>
+<LRC TAG="161880">你的城府有多深</LRC>
+<LRC TAG="165890">我爱的有多蠢</LRC>
+<LRC TAG="168480">是我太笨</LRC>
+<LRC TAG="170060">还是太认真</LRC>
+<LRC TAG="172640">幻想和你过一生</LRC>
+<LRC TAG="176100">你的城府有多深</LRC>
+<LRC TAG="179350">我爱的有多蠢</LRC>
+<LRC TAG="181990">不想再问</LRC>
+<LRC TAG="183520">也无法去恨 毕竟你是爱过我的人</LRC>
+</LYRICS>
+</MUSIC>

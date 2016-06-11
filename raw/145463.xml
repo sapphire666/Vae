@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>胡萝卜须</TITLE>
+<ARTIST></ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<LYRICS>
+<LRC TAG="1080">胡萝卜须</LRC>
+<LRC TAG="2610">词曲：许嵩</LRC>
+<LRC TAG="4380">演唱：许嵩</LRC>
+<LRC TAG="6170">中文歌词库 www.CnLyric.com</LRC>
+<LRC TAG="22580">先有鸡还是先有蛋</LRC>
+<LRC TAG="25830">先有女还是先有男</LRC>
+<LRC TAG="29370">成年人没空思考</LRC>
+<LRC TAG="32720">小孩又想不出答案</LRC>
+<LRC TAG="36280">聚光灯照在了头上</LRC>
+<LRC TAG="39710">热量激活他的脑浆</LRC>
+<LRC TAG="43090">观众一多他会紧张</LRC>
+<LRC TAG="46310">观众一少他又会彷徨</LRC>
+<LRC TAG="50080"></LRC>
+<LRC TAG="51070">青春舞台来来往往很多</LRC>
+<LRC TAG="54490">人人模狗样</LRC>
+<LRC TAG="58170">偏见与傲慢轮番拜访</LRC>
+<LRC TAG="61000">方式不详</LRC>
+<LRC TAG="64080">如果所有童年回想</LRC>
+<LRC TAG="67430">只剩哭喊了几嗓</LRC>
+<LRC TAG="70870">一个人散落天地</LRC>
+<LRC TAG="73770">没人爱已绝望</LRC>
+<LRC TAG="77010"></LRC>
+<LRC TAG="77660">哦 胡萝卜须抓住鼹鼠</LRC>
+<LRC TAG="80170">抛向天空 然后盯住它</LRC>
+<LRC TAG="84380">盯住它直到手脚折断</LRC>
+<LRC TAG="86940">抽搐翻滚 脑袋也开花</LRC>
+<LRC TAG="91230">哦 胡萝卜须不够残忍</LRC>
+<LRC TAG="93760">颤抖了手 热泪也落下</LRC>
+<LRC TAG="98090">他可以逃开吗</LRC>
+<LRC TAG="99770">进退在哪儿</LRC>
+<LRC TAG="101500">他从未有过家</LRC>
+<LRC TAG="104360"></LRC>
+<LRC TAG="118450">先有鸡还是先有蛋</LRC>
+<LRC TAG="121900">先有女还是先有男</LRC>
+<LRC TAG="125310">成年人没空思考</LRC>
+<LRC TAG="128640">小孩又想不出答案</LRC>
+<LRC TAG="132160">聚光灯照在了头上</LRC>
+<LRC TAG="135690">热量激活他的脑浆</LRC>
+<LRC TAG="139100">观众一多他会紧张</LRC>
+<LRC TAG="142360">观众一少他又会彷徨</LRC>
+<LRC TAG="145330"></LRC>
+<LRC TAG="147030">青春舞台来来往往很多</LRC>
+<LRC TAG="150790">人人模狗样</LRC>
+<LRC TAG="154030">偏见与傲慢轮番拜访</LRC>
+<LRC TAG="157100">方式不详</LRC>
+<LRC TAG="160080">如果所有童年回想</LRC>
+<LRC TAG="163540">只剩哭喊了几嗓</LRC>
+<LRC TAG="166860">一个人散落天地</LRC>
+<LRC TAG="169730">没人爱已绝望</LRC>
+<LRC TAG="173030"></LRC>
+<LRC TAG="173640">哦 胡萝卜须抓住鼹鼠</LRC>
+<LRC TAG="176150">抛向天空 然后盯住它</LRC>
+<LRC TAG="180570">盯住它直到手脚折断</LRC>
+<LRC TAG="183040">抽搐翻滚 脑袋也开花</LRC>
+<LRC TAG="187320">哦 胡萝卜须不够残忍</LRC>
+<LRC TAG="189940">颤抖了手 热泪也落下</LRC>
+<LRC TAG="194200">他可以逃开吗</LRC>
+<LRC TAG="195820">进退在哪儿</LRC>
+<LRC TAG="197560">他从未有过家</LRC>
+<LRC TAG="200610">哦 胡萝卜须抓住鼹鼠</LRC>
+<LRC TAG="203520">抛向天空 然后盯住它</LRC>
+<LRC TAG="207680">盯住它直到手脚折断</LRC>
+<LRC TAG="210400">抽搐翻滚 脑袋也开花</LRC>
+<LRC TAG="214700">哦 胡萝卜须不够残忍</LRC>
+<LRC TAG="217320">颤抖了手 热泪也落下</LRC>
+<LRC TAG="221590">他可以逃开吗</LRC>
+<LRC TAG="223200">进退在哪儿</LRC>
+<LRC TAG="225080">他从未有过家</LRC>
+<LRC TAG="227930"></LRC>
+</LYRICS>
+</MUSIC>

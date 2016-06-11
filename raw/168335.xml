@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>天龙八部之宿敌</TITLE>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST></ARTIST>
+<LYRICS>
+<LRC TAG="460">许嵩 - 天龙八部之宿敌</LRC>
+<LRC TAG="3250">词曲：许嵩</LRC>
+<LRC TAG="22600">会在何处见到你</LRC>
+<LRC TAG="27530">莫非前尘已注定</LRC>
+<LRC TAG="32410">飞过时空的距离</LRC>
+<LRC TAG="37440">却囿于刀剑光影</LRC>
+<LRC TAG="42110">三月春花渐次醒</LRC>
+<LRC TAG="47390">迢迢年华谁老去</LRC>
+<LRC TAG="52060">是劫是缘随我心</LRC>
+<LRC TAG="56990">除了你万敌不侵</LRC>
+<LRC TAG="62170">当恩怨各一半 我怎么圈揽</LRC>
+<LRC TAG="67200">看灯笼血红染 寻仇已太晚</LRC>
+<LRC TAG="72080">月下门童喟叹 昨夜太平长安</LRC>
+<LRC TAG="82280">当天上星河转 我命已定盘</LRC>
+<LRC TAG="87110">待绝笔墨痕干 宿敌已来犯</LRC>
+<LRC TAG="91990">我借你的孤单 今生恐怕难还</LRC>
+<LRC TAG="123870">缠扰孤岛的雪雨</LRC>
+<LRC TAG="128900">飘飘洒洒谁来停</LRC>
+<LRC TAG="133520">摘取一颗海上星</LRC>
+<LRC TAG="138600">陪我终夜不孤寂</LRC>
+<LRC TAG="143780">灵柩长埋深谷底</LRC>
+<LRC TAG="148760">没有永远的秘密</LRC>
+<LRC TAG="153640">染指江湖结悲局</LRC>
+<LRC TAG="158560">无人逃得过宿命</LRC>
+<LRC TAG="163590">当恩怨各一半 我怎么圈揽</LRC>
+<LRC TAG="168770">看灯笼血红染 寻仇已太晚</LRC>
+<LRC TAG="173650">月下门童喟叹 昨夜太平长安</LRC>
+<LRC TAG="183760">当天上星河转 我命已定盘</LRC>
+<LRC TAG="188530">待绝笔墨痕干 宿敌已来犯</LRC>
+<LRC TAG="193460">我借你的孤单 今生恐怕难还</LRC>
+<LRC TAG="205800">当恩怨各一半 我怎么圈揽</LRC>
+<LRC TAG="210620">看灯笼血红染 寻仇已太晚</LRC>
+<LRC TAG="215800">月下门童喟叹 昨夜太平长安</LRC>
+<LRC TAG="225760">当天上星河转 我命已定盘</LRC>
+<LRC TAG="230530">待绝笔墨痕干 宿敌已来犯</LRC>
+<LRC TAG="235510">我借你的孤单 今生恐怕难还</LRC>
+</LYRICS>
+</MUSIC>

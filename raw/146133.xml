@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>闺蜜</TITLE>
+<ARTIST></ARTIST>
+<ALBUM></ALBUM>
+<OFFSET>0</OFFSET>
+<ALBUM>许嵩</ALBUM>
+<ARTIST>许嵩</ARTIST>
+<LYRICS>
+<LRC TAG="0">闺蜜</LRC>
+<LRC TAG="3980">作词：许嵩</LRC>
+<LRC TAG="5490">作曲：许嵩</LRC>
+<LRC TAG="8330">唱：许嵩</LRC>
+<LRC TAG="41020">你和她从小就熟</LRC>
+<LRC TAG="44800">念书时每天放学都一起走</LRC>
+<LRC TAG="47830">三十八度顶着烈日游泳</LRC>
+<LRC TAG="51690">八卦莫文蔚和孙燕姿谁更瘦</LRC>
+<LRC TAG="55820">毕业后你们还是好朋友</LRC>
+<LRC TAG="59310">时不时的约她喝几杯酒</LRC>
+<LRC TAG="62940">最头疼的烦恼全部都说</LRC>
+<LRC TAG="67430">她是你最放心的垃圾桶</LRC>
+<LRC TAG="70780">可是你大脑单纯没想过</LRC>
+<LRC TAG="74630">她有天会把你的隐私向外人抖</LRC>
+<LRC TAG="78040">添油加醋扭曲之后你被妖魔</LRC>
+<LRC TAG="81890">最后连你男朋友也成她的男朋友</LRC>
+<LRC TAG="88480">闺蜜一出手 真让你难受</LRC>
+<LRC TAG="93960">哪还顾得上你的泪流</LRC>
+<LRC TAG="98300">委屈向谁说 说了谁又懂</LRC>
+<LRC TAG="101810">懂也不代表不会幸灾乐祸</LRC>
+<LRC TAG="105800">闺蜜一出手 真让你难受</LRC>
+<LRC TAG="109730">她内心也许经历过翻涌</LRC>
+<LRC TAG="113490">相伴到永久 是幻灭童梦</LRC>
+<LRC TAG="116860">现实教会了人要往前游</LRC>
+<LRC TAG="120490">却弄丢朋友</LRC>
+<LRC TAG="140520">有一天我撞见她在街头</LRC>
+<LRC TAG="143900">没好气的问她干嘛对你耍计谋</LRC>
+<LRC TAG="147560">她的眼神显得非常坦荡</LRC>
+<LRC TAG="151570">说你反正也没考虑过她感受</LRC>
+<LRC TAG="155550">你比她漂亮工作比她优秀</LRC>
+<LRC TAG="159140">从小到大你的光芒盖掉她的温柔</LRC>
+<LRC TAG="162400">她喜欢的人向你展开追求</LRC>
+<LRC TAG="166290">你施舍般对她说</LRC>
+<LRC TAG="170300">如果喜欢就拿走</LRC>
+<LRC TAG="174330">闺蜜一出手 真让你难受</LRC>
+<LRC TAG="178880">哪还顾得上你的泪流</LRC>
+<LRC TAG="182360">委屈向谁说 说了谁又懂</LRC>
+<LRC TAG="186010">懂也不代表不会幸灾乐祸</LRC>
+<LRC TAG="189950">闺蜜一出手 真让你难受</LRC>
+<LRC TAG="194010">她内心也许经历过翻涌</LRC>
+<LRC TAG="197840">相伴到永久 是幻灭童梦</LRC>
+<LRC TAG="201090">现实教会了人要往前游</LRC>
+<LRC TAG="204820">却弄丢朋友</LRC>
+<LRC TAG="208040">可能你也该想一想</LRC>
+<LRC TAG="213900">有没有 善待朋友</LRC>
+<LRC TAG="226870">中文歌词库 www.CnLyric.com</LRC>
+</LYRICS>
+</MUSIC>

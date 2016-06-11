@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes"?>
+<!DOCTYPE MUSIC [
+<!ELEMENT MUSIC (TITLE, ARTIST, ALBUM, OFFSET, LYRICS)>
+<!ELEMENT TITLE (#PCDATA)>
+<!ELEMENT ARTIST (#PCDATA)>
+<!ELEMENT ALBUM (#PCDATA)>
+<!ELEMENT OFFSET (#PCDATA)>
+<!ELEMENT LYRICS (LRC)*>
+<!ELEMENT LRC (#PCDATA)>
+<!ATTLIST LRC
+TAG CDATA #REQUIRED>
+]>
+<MUSIC>
+<TITLE>青</TITLE>
+<ARTIST></ARTIST>
+<ALBUM>青</ALBUM>
+<OFFSET>0</OFFSET>
+<ARTIST>许嵩</ARTIST>
+<ALBUM></ALBUM>
+<LYRICS>
+<LRC TAG="1000">青 - 许嵩</LRC>
+<LRC TAG="3130">词：停在昨天</LRC>
+<LRC TAG="5810">曲：许嵩</LRC>
+<LRC TAG="17900">一盏孤星陪伴着诀别的午夜</LRC>
+<LRC TAG="24440">落叶飘散着沉沦的季节</LRC>
+<LRC TAG="31260">爱情像折翼的枯叶蝶</LRC>
+<LRC TAG="37970">永远飞不到微亮明天</LRC>
+<LRC TAG="44940">那天的日出是属于我们的颜色</LRC>
+<LRC TAG="51480">点点温暖而又充满炽热</LRC>
+<LRC TAG="58210">可是那层彩虹始终无法透彻</LRC>
+<LRC TAG="64690">我们那道青色的隔阂</LRC>
+<LRC TAG="71980">你离去的那一瞬间 消失的那一刻</LRC>
+<LRC TAG="78440">黄与绿的混合 是青苹果的苦涩</LRC>
+<LRC TAG="85360">我离去的那一瞬间 消失的那一刻</LRC>
+<LRC TAG="91900">那残忍的定格 像尘封了的冰河</LRC>
+<LRC TAG="107490">一盏孤星陪伴着诀别的午夜</LRC>
+<LRC TAG="113970">落叶飘散着沉沦的季节</LRC>
+<LRC TAG="120930">爱情像折翼的枯叶蝶</LRC>
+<LRC TAG="127640">永远飞不到微亮明天</LRC>
+<LRC TAG="134480">那天的日出是属于我们的颜色</LRC>
+<LRC TAG="141180">点点温暖而又充满炽热</LRC>
+<LRC TAG="148000">可是那层彩虹始终无法透彻</LRC>
+<LRC TAG="154300">我们那道青色的隔阂</LRC>
+<LRC TAG="161550">你离去的那一瞬间 消失的那一刻</LRC>
+<LRC TAG="168050">黄与绿的混合 是青苹果的苦涩</LRC>
+<LRC TAG="174910">我离去的那一瞬间 消失的那一刻</LRC>
+<LRC TAG="181470">那残忍的定格 像尘封了的冰河</LRC>
+</LYRICS>
+</MUSIC>
